@@ -121,8 +121,3 @@ SELECT
 	salary + commission_pct * salary AS total_salary
 FROM
 	employees
-
-SELECT
-	*
-FROM
-	employees
